@@ -13,3 +13,12 @@
 ## 3. 프로젝트에서 맡고있는 역할
 
 ## 4. 현재까지 진행한 GitHub 활동 내역
+- GitHub contribution 그래프
+<img src="https://ghchart.rshah.org/Imygo"/>
+- 학습용 저장소 링크 및 기술 스택
+  
+https://github.com/jacking75/edu_cpp_IOCP
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
