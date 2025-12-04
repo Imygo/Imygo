@@ -11,7 +11,8 @@
 - Python 기반의 데이터 분석 도구와 React 기반의 인터랙티브 웹 대시보드를 제공하여 예약 데이터의 패턴과 인사이트를 발견할 수 있습니다.
 
 ## 3. 프로젝트에서 맡고있는 역할
-
+- 메인테이너
+- 버그 수정 및 유지보수
 ## 4. 현재까지 진행한 GitHub 활동 내역
 - GitHub contribution 그래프
 <img src="https://ghchart.rshah.org/Imygo"/>
